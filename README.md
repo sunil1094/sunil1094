@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007396?style=flat&logo=typescript&logoColor=white)
+![Php](https://img.shields.io/badge/-Php-00599C?style=flat&logo=php&logoColor=white)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-092E20?style=flat&logo=nest.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-6DB33F?style=flat&logo=express.js&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I am a passionate developer with experience in var
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sunil-vanam/)
+- [Twitter](https://twitter.com/sunil_1095)
+- [Email](mailto:sunilvanam10@gmail.com)
 
 ---
 
